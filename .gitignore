@@ -1,0 +1,14 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+venv/
+env/
+.env
+
+# Streamlit logs & cache
+.streamlit/
+*.log
